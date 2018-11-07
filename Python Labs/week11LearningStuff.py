@@ -72,3 +72,14 @@ class person:
 aaron = person("aaron")
 
 print(aaron.name)
+
+# __ : two underscores is called a dunderscore
+
+
+def addTwo(num1, num2):
+    return num1 + num2
+
+assert addTwo(1, 2) == 3 #check-expects
+
+inputTest = input("Say any word: ")
+print(inputTest) #user input
