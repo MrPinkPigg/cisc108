@@ -2,5 +2,6 @@
 
 All labs and projects from CISC 108 2018
 
-Lots of Racket\n
+Lots of Racket
+
 racket sucks tho
